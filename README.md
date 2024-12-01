@@ -44,4 +44,4 @@ Below is an overview of the project architecture:
 
 ## Feedback ✉️
 
-We’d love to hear from you! For questions, feedback, or suggestions, reach out via [LinkedIn](https://www.linkedin.com/).
+We’d love to hear from you! For questions, feedback, or suggestions, reach out via [LinkedIn](https://www.linkedin.com/in/glebgalkin/).
