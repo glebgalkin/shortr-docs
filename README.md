@@ -11,6 +11,13 @@ Shortr is a sleek, fast, and customizable URL shortening service designed to mak
 - **Custom Aliases**: Personalize your shortened URLs for easy sharing.
 - **Secure Redirection**: Safely redirect users to their intended destinations.
 - **Hashing Algorithm**: Generate unique, compact URLs using an efficient hashing algorithm.
+- **Custom Path**: Specify your own path for a unique, personalized link.
+
+## Project Architecture 🏗️
+
+Below is an overview of the project architecture:
+
+![Project Architecture](docs/project-diagram.png)
 
 ## Tech Stack 🛠️
 
