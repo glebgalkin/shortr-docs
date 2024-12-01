@@ -3,7 +3,7 @@
 [![Firebase Hosted](https://img.shields.io/website-up-down-green-red/https/shortr-298b5.web.app.svg)](https://shortr.one)  
 [![Domain](https://img.shields.io/badge/domain-shortr.one-blue)](https://shortr.one)
 
-Shortr is a sleek, fast, and customizable URL shortening service designed to make your links shorter, more manageable, and brandable. With features like custom aliases and secure redirection, Shortr is built for modern users and businesses.
+[shortr.one](URL) is a sleek, fast, and customizable URL shortening service designed to make your links shorter, more manageable, and brandable. With features like custom aliases and secure redirection, Shortr is built for modern users and businesses.
 
 ## Features 🎉
 
