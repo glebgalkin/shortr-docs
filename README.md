@@ -17,7 +17,8 @@ Shortr is a sleek, fast, and customizable URL shortening service designed to mak
 
 Below is an overview of the project architecture:
 
-![Project Architecture](docs/project-diagram.png)
+![Shortr-Architecture drawio](https://github.com/user-attachments/assets/89bb56f5-9202-42e8-a536-1316c81725b9)
+
 
 ## Tech Stack 🛠️
 
