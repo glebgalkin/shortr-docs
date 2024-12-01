@@ -26,7 +26,7 @@ Shortr is a sleek, fast, and customizable URL shortening service designed to mak
 
 ### Deployment
 - **VM Provider**: Akamai
-- **Domain**: `shortr.one` (Main app) and `sh.shortr.one` (API requests)
+- **Domain**: `shortr.one` (Main app) and `srtr.one` (API requests)
 
 ## Usage 📝
 
