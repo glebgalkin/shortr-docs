@@ -1,4 +1,3 @@
-![Shortr-Architecture drawio](https://github.com/user-attachments/assets/c5539a16-bca6-412a-a2a8-3838ab10715a)
 # Shortr - Your URL Shortening Solution 🚀
 
 [![Firebase Hosted](https://img.shields.io/website-up-down-green-red/https/shortr-298b5.web.app.svg)](https://shortr.one)  
